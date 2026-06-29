@@ -265,6 +265,3 @@ This application is intended solely for educational, analytical, and research pu
 
 This project is licensed under the MIT License.
 
-```
-
-```
